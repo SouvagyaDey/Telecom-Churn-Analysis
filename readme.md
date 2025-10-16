@@ -1,12 +1,7 @@
 
-[![Watch Video](churn.jpg)](video.mp4)
+[![Watch Video]
 
----
 
-Alternatively, if your browser supports HTML `<video>`:
 
-<video width="480" height="270" controls>
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-✅
+Uploading churn-analysis-2025-10-17-03-26-05_2hUjGK3O.mp4…
+
