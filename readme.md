@@ -19,6 +19,10 @@ While this project is based on a telecom dataset, the techniques can be applied 
 ## Demo
 [![Watch Video](https://github.com/user-attachments/assets/ad897e15-073e-41e8-af17-027b6604249d)](https://github.com/user-attachments/assets/ad897e15-073e-41e8-af17-027b6604249d)
 
+
+## Dashboard Screenshot
+![Dashboard]<img width="1155" height="648" alt="Churn-analysis" src="https://github.com/user-attachments/assets/b2c40282-b0aa-4257-a28a-e5e8a740f37c" />
+
 ## Tools Used
 - Miceosoft SQL Server  
 - Power BI  
